@@ -83,10 +83,12 @@ The dataset **"Estimation of Obesity Levels Based on Eating Habits and Physical 
 - Improved performance and stability across all classes.
 
 ### **Confusion Matrix**
-![Confusion Matrix](path_to_confusion_matrix_image.png)
+![image](https://github.com/user-attachments/assets/79e52757-69bd-493f-bfe3-53fe807e05ff)
+
 
 ### **Feature Importance**
-![Feature Importance](path_to_feature_importance_image.png)
+![image](https://github.com/user-attachments/assets/a0b9c823-6b3a-493b-ab5e-54a35aba25fe)
+
 
 - **Weight**, **Height**, and **Age** were the most influential features in predicting obesity levels.
 
@@ -163,4 +165,3 @@ For any questions, feel free to reach out:
 
 ---
 
-Dengan format ini, **README.md** file Anda akan lebih profesional, mudah dipahami, dan menarik bagi pengunjung GitHub Anda! Jangan lupa mengganti placeholder seperti `path_to_confusion_matrix_image.png` dan informasi kontak sesuai kebutuhan Anda. 🚀
