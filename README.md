@@ -4,6 +4,8 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-blue)  
 ![Python](https://img.shields.io/badge/Language-Python%203.8%2B-blue)
 
+![2](https://github.com/user-attachments/assets/de825fcb-c668-4af8-8a20-a08d3d8eb0c7)
+
 ## 🎯 **Project Overview**
 
 This project focuses on predicting obesity levels in individuals using **Random Forest Classifier**, a powerful ensemble learning technique. The dataset used was collected from individuals in Mexico, Peru, and Colombia and includes various features such as eating habits, physical condition, and demographics.
